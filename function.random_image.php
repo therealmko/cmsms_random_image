@@ -116,7 +116,7 @@ function smarty_cms_about_function_random_image() {
         ?>
                   <p><b>Plugin author: King</b></p>
                   <p>>Big thanks to Rolf Tjassens (http://www.rolftjassens.com) for his many examples and howtos</p>
-                  <p>Also thanks to the author of the example found here : http://www.dyn-web.com/code/basics/random_image/random_img_php.php</p>
+                  <p>Also thanks to the author of the php randomize function example found here : http://www.dyn-web.com/code/basics/random_image/random_img_php.php</p>
                   
                   <p><b>Version:</b> 1.1</p>
                   <p><b>Change History:</b></p>
