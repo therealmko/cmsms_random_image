@@ -1,7 +1,7 @@
  <?php
 #-------------------------------------------------------------------------
 # Plugin: random_image
-# Author: Michel Koning
+# Author: King
 #-------------------------------------------------------------------------
 # CMS - CMS Made Simple is (c) 2012 by Ted Kulp (wishy@cmsmadesimple.org)
 # This project's homepage is: http://www.cmsmadesimple.org
