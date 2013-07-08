@@ -36,7 +36,7 @@ function smarty_cms_function_random_image($params, &$smarty) {
           $image_width		  = isset($params['image_width']) ? $params['image_width'] : '';
           $exclude		  = isset($params['exclude']) ? $params['exclude'] : '';
 
-	  #Call function to fill array with all pictures
+          #Call function to fill array with all pictures
           $imgList                = getImagesFromDir($root . $image_path, $exclude);
           
           #Call function to randomly pick 1 image from array
